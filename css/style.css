@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #15d74f;
+  background: #FF9000;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #15d74f !important;
+  color: #FF9000 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
